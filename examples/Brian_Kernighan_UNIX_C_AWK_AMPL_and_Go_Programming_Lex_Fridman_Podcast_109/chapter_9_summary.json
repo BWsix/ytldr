@@ -1,0 +1,34 @@
+{
+  "title": "Go language",
+  "start": 3524.0,
+  "end": 3717.0,
+  "summary": "The conversation delves into the Go programming language, highlighting its unique position within the landscape of modern languages [58:53]. The speaker acknowledges a regret for not having explored Go sooner, noting its high reputation alongside languages like Rust and Julia [59:02]. He frames Go's origins within a lineage tracing back to Bell Labs, emphasizing the involvement of key figures like Ken Thompson and Rob Pike [59:39]. Further enriching its heritage is the influence of the European school of programming, specifically through Klaus Svierth and Robert Griezmer [59:52].\n\nGo is often characterized as \"C for the 21st century\" [60:07], retaining a familiar syntax for those acquainted with C while introducing valuable data structuring capabilities. However, the speaker emphasizes that Go’s most significant contribution lies in its concurrency model. Drawing upon the work of Tony Hoare, Go routines offer a natural and efficient approach to parallel computation [60:43]. The speaker highlights their ease of use and effectiveness based on personal experimentation [61:02].\n\nThe discussion then shifts to the historical context of parallel processing. While early C and Unix systems may not have explicitly anticipated the need for widespread thread usage, the limitations of processor speed improvements due to power consumption and heat generation spurred the shift towards multi-processor systems [61:25]. This development made parallel computation, and tools like Go routines, increasingly important. The speaker observes that the early programmers likely did not foresee the level of parallel processing that became necessary [61:31].",
+  "timestamps": [
+    {
+      "time": 3524,
+      "formatted": "58:44",
+      "description": "Introduces the speaker's lack of Go experience and interest in modern languages."
+    },
+    {
+      "time": 3570,
+      "formatted": "59:30",
+      "description": "Explains Go's origins in Bell Labs and European influences."
+    },
+    {
+      "time": 3607,
+      "formatted": "60:07",
+      "description": "Describes Go as \"C for the 21st century,\" highlighting its surface similarities."
+    },
+    {
+      "time": 3634,
+      "formatted": "60:34",
+      "description": "Mentions Go's useful model of concurrency and Go routines."
+    },
+    {
+      "time": 3675,
+      "formatted": "61:15",
+      "description": "Discusses the foresight of threads in parallel computation."
+    }
+  ],
+  "text": "So you've also written a book on Go language. I have to admit, so I worked at Google for a while and I've never used Go. Well, you missed something. Well, I know I missed something for sure. I mean, so Go and Rust are two languages that I hear very, spoken very highly of and I wish I would like to, well, there's a lot of them. There's Julia, there's all these incredible modern languages. But if you can comment before, or maybe comment on what do you find, where does Go sit in this broad spectrum of languages? And also, how do you yourself feel about this wide range of powerful, interesting languages that you may never even get to try to explore? Yeah. Because of time. So I think, so Go first comes from that same Bell Labs tradition in part, not exclusively, but two of the three creators, Ken Thompson and Rob Pike. So literally the people. Yeah, the people. Yeah. And then with this very, very useful influence from the European school, in particular, the Klaus Svierth influence through Robert Griezmer, who was, I guess, a second generation down student at ETH. And so that's an interesting combination of things. And so some ways, Go captures the good parts of C. It looks sort of like C. It's sometimes characterized as C for the 21st century. On the surface, it looks very, very much like C. But at the same time, it has some interesting data structuring capabilities. And then I think the part that I would say is particularly useful. And again, I'm not a Go expert. In spite of co-authoring the book, about 90% of the work was done by Alan Donovan, my co-author, who is a Go expert. But Go provides a very nice model of concurrency. It's basically the cooperating, communicating sequential processes that Tony Hoare set forth, geez, I don't know, 40 plus years ago. And Go routines are, to my mind, a very natural way to talk about parallel computation. And in the few experiments I've done with them, they're easy to write, and typically, it's going to work and very efficient as well. So I think that's one place where Go stands out, that that model of parallel computation is very, very easy and nice to work with. Just to comment on that, do you think C foresaw, or the early Unix days foresaw, threads in massively parallel computation? I would guess not really. I mean, maybe it was seen, but not at the level where it was something you had to do anything about. For a long time, processors got faster. And then processors stopped getting faster because of things like power consumption and heat generation. And so what happened instead was that instead of processors getting faster, there started to be more of them. And that's where that parallel thread stuff comes in."
+}

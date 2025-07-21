@@ -1,0 +1,105 @@
+{
+  "title": "Brian Kernighan: UNIX, C, AWK, AMPL, and Go Programming | Lex Fridman Podcast #109",
+  "description": "Brian Kernighan is a professor of computer science at Princeton University. He co-authored the C Programming Language with Dennis Ritchie (creator of C) and has written a lot of books on programming, computers, and life including the Practice of Programming, the Go Programming Language, his latest UNIX: A History and a Memoir. He co-created AWK, the text processing language used by Linux folks like myself. He co-designed AMPL, an algebraic modeling language for large-scale optimization.\n\nSupport this podcast by supporting our sponsors:\n- Eight Sleep: https://eightsleep.com/lex\n- Raycon: http://buyraycon.com/lex\n\nEPISODE LINKS:\nBrian's website: https://www.cs.princeton.edu/~bwk/\nUnix: A History and a Memoir (book): https://amzn.to/3fFJ1yM\nUnderstanding the Digital World (book): https://amzn.to/30ktBJI\n\nPODCAST INFO:\nPodcast website:\nhttps://lexfridman.com/podcast\nApple Podcasts:\nhttps://apple.co/2lwqZIr\nSpotify:\nhttps://spoti.fi/2nEwCF8\nRSS:\nhttps://lexfridman.com/feed/podcast/\nFull episodes playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4\nClips playlist:\nhttps://www.youtube.com/playlist?list=PLrAXtmErZgOeciFP3CBCIEElOJeitOr41\n\nOUTLINE:\n0:00 - Introduction\n4:24 - UNIX early days\n22:09 - Unix philosophy\n31:54 - Is programming art or science?\n35:18 - AWK\n42:03 - Programming setup\n46:39 - History of programming languages\n52:48 - C programming language\n58:44 - Go language\n1:01:57 - Learning new programming languages\n1:04:57 - Javascript\n1:08:16 - Variety of programming languages\n1:10:30 - AMPL\n1:18:01 - Graph theory\n1:22:20 - AI in 1964\n1:27:50 - Future of AI\n1:29:47 - Moore's law\n1:32:54 - Computers in our world\n1:40:37 - Life\n\nCONNECT:\n- Subscribe to this YouTube channel\n- Twitter: https://twitter.com/lexfridman\n- LinkedIn: https://www.linkedin.com/in/lexfridman\n- Facebook: https://www.facebook.com/LexFridmanPage\n- Instagram: https://www.instagram.com/lexfridman\n- Medium: https://medium.com/@lexfridman\n- Support on Patreon: https://www.patreon.com/lexfridman",
+  "duration": 6189,
+  "uploader": "Lex Fridman",
+  "url": "https://www.youtube.com/watch?v=O9upVbGSBFo",
+  "chapters": [
+    {
+      "start": 0.0,
+      "end": 264.0,
+      "title": "Introduction"
+    },
+    {
+      "start": 264.0,
+      "end": 1329.0,
+      "title": "UNIX early days"
+    },
+    {
+      "start": 1329.0,
+      "end": 1914.0,
+      "title": "Unix philosophy"
+    },
+    {
+      "start": 1914.0,
+      "end": 2118.0,
+      "title": "Is programming art or science?"
+    },
+    {
+      "start": 2118.0,
+      "end": 2523.0,
+      "title": "AWK"
+    },
+    {
+      "start": 2523.0,
+      "end": 2799.0,
+      "title": "Programming setup"
+    },
+    {
+      "start": 2799.0,
+      "end": 3168.0,
+      "title": "History of programming languages"
+    },
+    {
+      "start": 3168.0,
+      "end": 3524.0,
+      "title": "C programming language"
+    },
+    {
+      "start": 3524.0,
+      "end": 3717.0,
+      "title": "Go language"
+    },
+    {
+      "start": 3717.0,
+      "end": 3897.0,
+      "title": "Learning new programming languages"
+    },
+    {
+      "start": 3897.0,
+      "end": 4096.0,
+      "title": "Javascript"
+    },
+    {
+      "start": 4096.0,
+      "end": 4230.0,
+      "title": "Variety of programming languages"
+    },
+    {
+      "start": 4230.0,
+      "end": 4681.0,
+      "title": "AMPL"
+    },
+    {
+      "start": 4681.0,
+      "end": 4940.0,
+      "title": "Graph theory"
+    },
+    {
+      "start": 4940.0,
+      "end": 5270.0,
+      "title": "AI in 1964"
+    },
+    {
+      "start": 5270.0,
+      "end": 5387.0,
+      "title": "Future of AI"
+    },
+    {
+      "start": 5387.0,
+      "end": 5574.0,
+      "title": "Moore's law"
+    },
+    {
+      "start": 5574.0,
+      "end": 6037.0,
+      "title": "Computers in our world"
+    },
+    {
+      "start": 6037.0,
+      "end": 6189,
+      "title": "Life"
+    }
+  ],
+  "audio_file": "output/Brian_Kernighan_UNIX_C_AWK_AMPL_and_Go_Programming_Lex_Fridman_Podcast_109/audio.mp3"
+}

@@ -1,0 +1,17 @@
+---
+alwaysApply: false
+---
+Add a new feature or enhancement to the project. Make sure your implementation is well-tested and integrates cleanly with the existing codebase.
+
+- Before starting, create a new branch for your feature:
+- Implement your feature/enhancement. Make sure to:
+  - Follow the existing code style and structure.
+  - Add or update tests in the `tests/` directory to cover your changes.
+  - Run all tests:
+  - If your feature affects output (e.g., summary markdown), manually inspect the output files in `output/` to ensure correctness.
+- If you add new breaking functionality, add end-to-end tests and check the actual output, not just test assertions.
+- Once everything passes, push your branch and open a pull request
+- In your PR description, clearly explain:
+  - What the feature/enhancement is
+  - How it was tested (if the testing method changed)
+  - Any new dependencies or config changes

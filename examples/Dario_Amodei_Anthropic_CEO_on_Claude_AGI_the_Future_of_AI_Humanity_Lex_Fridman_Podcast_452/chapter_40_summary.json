@@ -1,0 +1,34 @@
+{
+  "title": "Beauty of neural networks",
+  "start": 18710.0,
+  "end": 18900,
+  "summary": "The conversation delves into the often-overlooked \"beauty\" aspect of McInturp research, alongside the crucial focus on safety [311:50]. The speaker expresses a common sentiment among those working with neural networks – a sense of disappointment that some perceive them as simply scaled-up engineering feats, lacking the profound, complex ideas associated with true scientific breakthroughs [312:05]. This perspective, the speaker argues, is akin to dismissing evolution as \"boring\" simply because it relies on simple rules that, over time, generate incredible complexity [312:25]. The core point is that the beauty lies precisely in this emergent complexity arising from simplicity [312:35].\n\nJust as simple evolutionary rules produce the vast and beautiful ecosystems we observe, neural networks, despite their relatively straightforward underlying principles, generate internal structures and complexities that are largely unexplored and poorly understood [312:52]. The speaker emphasizes the potential for deep beauty to be discovered within these networks, but stresses that it requires dedicated effort to understand them [313:12]. This feeling of glimpsing the \"magic\" within and striving to understand it is described as a profoundly rewarding experience [313:27].\n\nA key question arises: how is it possible that humanity has created these powerful systems that we fundamentally don't know how to directly program [313:44]? These neural networks are accomplishing incredible feats, yet we lack the ability to replicate their functionality through traditional computer programming, highlighting a significant gap in our understanding [313:53]. The speaker uses the evocative image of the network \"reaching towards the light of the objective function\" [314:06], likening it to a grown, organic entity whose nature remains largely mysterious. Ultimately, the speaker encourages a deeper appreciation for the beauty and inherent mystery of neural networks, recognizing them as remarkable artifacts that demand further investigation.",
+  "timestamps": [
+    {
+      "time": 18717,
+      "formatted": "311:57",
+      "description": "Introduces the discussion about the \"beauty\" aspect of neural networks."
+    },
+    {
+      "time": 18755,
+      "formatted": "312:35",
+      "description": "Explains the core concept: beauty lies in simplicity generating complexity."
+    },
+    {
+      "time": 18772,
+      "formatted": "312:52",
+      "description": "Compares neural network beauty to the simplicity of evolution and biology."
+    },
+    {
+      "time": 18792,
+      "formatted": "313:12",
+      "description": "Highlights the potential for discovering \"deep beauty\" within neural networks."
+    },
+    {
+      "time": 18842,
+      "formatted": "314:02",
+      "description": "Expresses surprise at humanity's lack of understanding of these powerful systems."
+    }
+  ],
+  "text": "I love what you've written about the goal of McInturp research as, uh, two goals, safety and beauty. So can you talk about the beauty side of things? Yeah. So, you know, there's this funny thing where I think some people want, uh, some people are kind of disappointed by neural networks, I think, where they're like, ah, you know, neural networks, um, it's these, just these simple rules. And then you just like do a bunch of engineering to scale it up and it works really well. And like, where's the like complex ideas? You know, this isn't like a very nice, beautiful scientific result. And I sometimes think when people say that, uh, I picture them being like, you know, evolution is so boring. It's just a bunch of simple rules and you run evolution for a long time and you get biology. Like what a, what a sucky, uh, you know, way for biology to have turned out. Where's the complex rules. But the beauty is that the simplicity generates complexity. Um, you know, biology has these simple rules and it gives rise to, you know, all the life and ecosystems that we see around us, all the beauty of nature that all just comes from evolution and from something very simple evolution. And similarly, I think that neural networks build, you know, create enormous, um, complexity and beauty inside and structure inside themselves that people generally don't look at and don't try to understand because it's, it's hard to understand. But I, I think that there is an incredibly rich structure to be discovered inside neural networks. A lot of, a lot of very deep beauty. Um, if we're just willing to take the time to go and see it and understand it. Yeah. I love, I love McInterp. The feeling like we are understanding or getting glimpses of understanding the magic that's going on inside is really wonderful. It feels to me like one of the questions that's just calling out to be asked. And I'm sort of, I mean, a lot of people are thinking about this, but I'm, I'm often surprised that not more are is how is it that we don't know how to create computer systems that can do these things. And yet we have these amazing systems that we don't know how to directly create computer programs that can do these things, but these neural networks can do all these amazing things. And it just feels like that is obviously the question that sort of is calling out to be answered. If you are, if you have any degree of curiosity, it's, it's like, how is it that, that humanity now has these artifacts that can do these things that we don't know how to do? Yeah. I love the image of the circus reaching towards the light of the objective function. Yeah. It's just, it's, it's this organic thing that we've grown and we have no idea what we've grown. Well, thank you for working on safety and thank you for appreciating the beauty of the things you discover and thank you for talking today, Chris. Yeah.  Thank you for taking the time to chat as well. Thanks for listening to this conversation with Chris Ola and before that with Dari Amadei and Amanda Askell. To support this podcast, please check out our sponsors in the description. And now let me leave you with some words from Alan Watts. The only way to make sense out of change is to plunge into it, move with it and join the dance. Thank you for listening and hope to see you next time. Please see you in the next part.  This isраiyan Clearing movie Selbstman analogy and suppose to be a comedy casa and unstable It has to be seen is to focus the drums. "
+}

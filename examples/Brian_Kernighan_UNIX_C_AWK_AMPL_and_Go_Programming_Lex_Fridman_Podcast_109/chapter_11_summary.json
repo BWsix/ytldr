@@ -1,0 +1,34 @@
+{
+  "title": "Javascript",
+  "start": 3897.0,
+  "end": 4096.0,
+  "summary": "This chapter delves into the evolving perception and role of JavaScript in modern programming [65:02]. Initially, JavaScript faced considerable disdain within academic circles, viewed as an \"ugly\" and irregular language [65:34]. This perception stemmed from its early design and the comparatively poor technology available for compiling it. However, the speakers acknowledge a significant shift, noting the language’s evolution and the vastly improved compilation technology, making it a viable solution for both front-end and back-end development [65:43]. One speaker even admits to having written some JavaScript and experimented with translators, although they don’t consider themselves an expert [66:02]. While acknowledging its importance, they remain skeptical about it “taking over the world” [66:14].\n\nA crucial aspect discussed is the modern programming experience, contrasting it with earlier eras. The speakers highlight how contemporary languages like JavaScript and Python rely heavily on external libraries and pre-built code [66:34]. This differs sharply from the \"old days\" of programming in languages like Unix and C, where developers built almost everything from scratch. The convenience of leveraging libraries is undeniable, but it introduces a new set of challenges. Developers now frequently download substantial amounts of code without fully understanding its origin or functionality [67:29]. The speaker illustrates this with a personal experience of troubleshooting machine learning code and having to install numerous packages through `pip install` [67:34].\n\nFurthermore, the speaker expresses concern about the NPM environment for JavaScript, deeming it to lack discipline and control [67:54]. This lack of oversight introduces potential security and robustness issues, making it difficult to diagnose problems when code fails. The chapter concludes with a commentary on how the increased reliance on external libraries has fundamentally altered the programming experience, shifting the focus from building everything from the ground up to integrating and managing pre-existing codebases.",
+  "timestamps": [
+    {
+      "time": 3908,
+      "formatted": "65:08",
+      "description": "Early perception of JavaScript as an \"ugly\" language is discussed."
+    },
+    {
+      "time": 3943,
+      "formatted": "65:43",
+      "description": "Explains how JavaScript and its compilation technology have significantly evolved."
+    },
+    {
+      "time": 3994,
+      "formatted": "66:34",
+      "description": "Highlights the importance of libraries in modern programming with languages like JavaScript."
+    },
+    {
+      "time": 4023,
+      "formatted": "67:03",
+      "description": "Contrasts modern library-based programming with building from scratch in the past."
+    },
+    {
+      "time": 4054,
+      "formatted": "67:34",
+      "description": "Discusses the challenges and security concerns of using numerous libraries (NPM)."
+    }
+  ],
+  "text": "That's this, well, let me just sort of comment on what I said. When I was brought up, sort of JavaScript was seen as, uh, the probably like the ugliest language possible. And yet it's quite arguably, quite possibly taking over, not just the front end, the back end of the internet, but possibly in the future, taking over everything because they've now learned to make it very efficient. Yeah. And so what do you think about this? Yeah. Well, I think you captured it in a lot of ways when it first came out. JavaScript was deemed to be fairly irregular and an ugly language. And certainly in the academy, if you said you were working on JavaScript, people would ridicule you. It was just not fit for academics to work on. I think a lot of that has evolved. The language itself has evolved. And, uh, certainly the technology of compiling it is fantastically better than it was. Um, and so in that sense, it's a, uh, absolutely a viable solution on back ends as well as the front ends, um, used well, I think it's a pretty good language I've written a modest amount of it. And I've played with JavaScript translators and things like that. I'm not a real expert and it's hard to keep up even there with the new things that come along with it. Um, so I don't know whether it will ever take over the world. I think not, but, uh, it, it's certainly an important language and worth knowing more about. There's a, there's maybe to get your comment on something, which JavaScript and actually most languages, uh, sort of Python, such a big part of the experience of programming with those languages includes libraries, sort of using building on top of the code that other people have built. I think that's probably different from the experience that we just talked about from Unix and C days when you're building stuff from scratch. What do you think about this world of essentially leveraging, building up libraries on top of each other and leveraging them? Yeah, no, that's a very perceptive kind of, uh, question. One of the reasons programming was fun in the old days was that you were really building it all yourself. The, the number of libraries you had to deal with was quite small. Maybe it was print F or the standard library or something like that. Um, and that is not the case today. And if you want to do something in, you mentioned Python and JavaScript, and those are the two fine examples, you have to typically download a boatload of other stuff and you have no idea what you're getting. Absolutely nothing. I've been doing some playing with machine learning over the last couple of days and gee, something doesn't work. Well, you pip install this. Okay. And down comes another gazillion megabytes of something and you have no idea what it was. And if you're lucky, it works. And if it doesn't work, you have no recourse. There's absolutely no way you could figure out which in these thousand different packages. And I think it's worse in the NPM environment for JavaScript. I think there's less discipline, less control there. And there's aspects of, uh, not just not understanding how it works, but there's security issues. There's robustness issues. So you don't want to run a nuclear power"
+}

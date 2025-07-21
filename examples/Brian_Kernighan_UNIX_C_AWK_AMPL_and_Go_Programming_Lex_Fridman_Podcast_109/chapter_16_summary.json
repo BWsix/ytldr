@@ -1,0 +1,34 @@
+{
+  "title": "Future of AI",
+  "start": 5270.0,
+  "end": 5387.0,
+  "summary": "The chapter on the \"Future of AI\" [87:57] explores the complex and often conflicting feelings surrounding the pervasive nature of computing and artificial intelligence. The speaker acknowledges the widespread anxiety regarding technology taking over, moving beyond just AI to encompass the broader implications of ubiquitous computing. Rather than a simple optimistic or pessimistic view, the speaker suggests a nuanced perspective, recognizing that technological advancements, including AI, are typically a mixed bag over time, bringing both benefits and drawbacks [88:14].\n\nA key example used to illustrate this duality is the current state of privacy [88:36]. The speaker highlights how social media and commercial surveillance have resulted in an unprecedented level of data collection about individuals, a situation many may find unsettling. Interestingly, the speaker notes that this very data collection could potentially be leveraged for positive outcomes, though this hinges on significant and currently uncertain changes in how it's managed – a “big if” [89:15].\n\nThe speaker's interest in human psychology is central to their perspective on this issue [89:17]. They observe that concerns about data privacy vary significantly across age groups, suggesting that societal attitudes could dramatically shift within the coming decades. The speaker expresses fascination with the possibility that future generations might re-evaluate their views on data and privacy, potentially prioritizing different values or simply becoming desensitized to the current level of data collection. They anticipate a fascinating evolution of societal perspectives [89:31] and are keen to see how the concerns surrounding data might be “flipped in their head” [89:37] based on the changing dynamics of human psychology rather than purely objective risks.",
+  "timestamps": [
+    {
+      "time": 5281,
+      "formatted": "88:01",
+      "description": "Asks the core question: Are you excited or worried about computing's future?"
+    },
+    {
+      "time": 5294,
+      "formatted": "88:14",
+      "description": "States technology is generally for good, but acknowledges potential negative impacts."
+    },
+    {
+      "time": 5316,
+      "formatted": "88:36",
+      "description": "Uses privacy as a concrete example of computing's potential negative effect."
+    },
+    {
+      "time": 5357,
+      "formatted": "89:17",
+      "description": "Discusses human psychology's role in perceptions of data and privacy."
+    },
+    {
+      "time": 5371,
+      "formatted": "89:31",
+      "description": "Expresses interest in observing societal shifts and privacy views in 50 years."
+    }
+  ],
+  "text": "lot of people who are worried. And you can speak broadly than just artificial intelligence. It's basically computing taking over the world in various forms. Are you excited by this future, this possibility of computing being everywhere? Or are you worried? It's some combination of those. I think almost all technologies over the long run are for good, but there's plenty of examples where they haven't been good either over a long run for some people or over a short run. And computing is one of those. And AI within it is going to be one of those as well. But computing broadly. I mean, for just a today example is privacy. That the use of things like social media and so on means that... And the commercial surveillance means that there's an enormous amount more known about us by people, other businesses, government, whatever, than perhaps one ought to feel comfortable with. So that's an example. So that's an example of a possible negative effect of computing being everywhere. It's an interesting one because it could also be a positive if leveraged correctly. There's a big if there. So I have a deep interest in human psychology and humans seem to be very paranoid about this data thing that varies depending on age group. Yes. It seems like the younger folks. So it's exciting to me to see what society looks like 50 years from now that the concerns about privacy might be flipped in their head based purely on human psychology versus actual concerns or not. Yeah."
+}

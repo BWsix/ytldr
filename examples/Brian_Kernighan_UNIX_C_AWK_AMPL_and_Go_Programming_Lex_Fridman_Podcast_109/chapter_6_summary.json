@@ -1,0 +1,34 @@
+{
+  "title": "Programming setup",
+  "start": 2523.0,
+  "end": 2799.0,
+  "summary": "This chapter delves into the speaker’s preferred programming setup and, surprisingly, provides a fascinating historical overview of text editors [42:08]. While acknowledging that “perfect” is too strong a word, the speaker primarily uses a 13-inch MacBook Air for most of their computing needs, appreciating its portability and functionality [42:15]. They also occasionally utilize a larger iMac for tasks requiring a bigger screen [42:33].\n\nThe discussion then pivots to the speaker's editor of choice: SAM [42:48]. SAM, originally written by Rob Pike, is presented as a descendant of earlier editors, notably preceding and deriving from both VI and Emax [42:54]. To provide context, the speaker embarks on a journey through the history of text editors, starting with the early days of time-sharing systems and editors like \"edit\" [43:40]. They highlight Ken Thompson's \"QED\" and then the pivotal creation of \"ED\" [44:26], a remarkably simple, line-oriented editor designed for use with paper printouts. The limitations of working with paper – requiring a new line of paper for every change [45:03] – underscore the significance of the subsequent introduction of CRT displays and cursor control.\n\nThis historical progression leads to the emergence of editors like VI [45:29], which Bill Joy developed, and the roughly contemporaneous Emacs. The speaker expresses a preference for SAM, acknowledging its availability primarily through the Plan 9 operating system distribution [46:02]. While they acknowledge a personal fondness for Lisp and Emacs, the speaker’s current programming work primarily involves C, C++, and Python. The historical account provides valuable insight into how constraints and technological advancements shaped the evolution of the tools programmers use today.",
+  "timestamps": [
+    {
+      "time": 2535,
+      "formatted": "42:15",
+      "description": "Describes the default development environment: 13 inch MacBook Air."
+    },
+    {
+      "time": 2568,
+      "formatted": "42:48",
+      "description": "Introduces SAM, the editor primarily used, derived from ED and VI."
+    },
+    {
+      "time": 2606,
+      "formatted": "43:26",
+      "description": "Begins explaining the history of editors, starting with ED."
+    },
+    {
+      "time": 2640,
+      "formatted": "44:00",
+      "description": "Discusses Ken Thompson's editor, QED, and its evolution into ED."
+    },
+    {
+      "time": 2729,
+      "formatted": "45:29",
+      "description": "Explains the significance of VI and its use of cursor controls."
+    }
+  ],
+  "text": "what keyboard, what editor? Yeah. Perfect is too strong a word. It's way too strong a word. What I use by default, I have a, at this point, a 13 inch MacBook Air, which I use because it's kind of a reasonable balance of the various things I need. I can carry it around. It's got enough computing horsepower, screen's big enough, keyboard's okay. And so I basically do most of my computing on that. I have a big iMac in my office that I use from time to time as well, especially when I need a big screen, but otherwise tends not to be used as much. Editor. I use mostly SAM, which is an editor that Rob Pike wrote long ago at Bell Labs. And did that, sorry to interrupt it. Does that proceed VI? Does that proceed Emax? It posts, it posts dates both VI and Emax. It is derived from Rob's experience with ED and VI. What's ED? That's the original Unix editor. Oh, wow. It dated probably before you were born. So, what's, actually, what's the history of editors? Can you briefly, because it's such a fact, I use Emax, I'm sorry to say, sorry to come out with that. But what's the kind of interplay there? So, Sam, you ask if you have. So, in ancient times, like call it the first time sharing systems, going back to what we were talking about, there were editors, there was an editor on CTSS that I don't even remember what it was called, it might have been edit, where you could type text, program text, and it would do something, or document text. You could save the text. And save it. You could edit it. You know, the usual thing that you would get in an editor. And Ken Thompson wrote an editor called QED, which was very, very powerful. But these were all totally a command-based, they were not mouse or cursor-based, because it was before mice and even before cursors, because they were running on terminals that printed on paper. Okay. No CRT type displays, let alone LEDs. And so, then when Unix came along, Ken took QED and stripped it way, way, way, way down. And that became an editor that he called ED. And it was very simple, but it was a line-oriented editor. And so, you could load a file and then you could talk about the lines one through the last line. And you could, you know, print ranges of lines. You could add text, you could delete text, you could change text, or you could do a substitute command that would change things within a line or within groups of lines. So, you can work on a parts of a file, essentially. Yeah. You can work on any part of it, the whole thing or whatever, but it was entirely command line based and it was entirely on paper. Okay. Paper. And that meant that you changed it. Yeah. Right. Real paper. And so, if you changed the line, you had to print that line using up another line of paper to see what the change caused. Okay. Yeah. So, when CRT displays came along, then you could start to use cursor control and you could sort of move where you were on the screen in... Without reprinting every time. Without reprinting. And one of, there were a number of editors there. The one that I was most familiar with and still use is VI, which was done by Bill Choi. And so, that dates from probably the late 70s as a guess. And it took full advantage of the cursor controls. I suspect that Emacs was roughly at the same time, but I don't know. I've never internalized Emacs. So, I use... At this point, I stopped using ED, although I still can. I use VI sometimes, and I use SAM when I can. And SAM is available on most systems? It was... It is available. You have to download it yourself from, typically, the Plan 9 operating system distribution. It's been maintained by people there. And so, I... I'll get home tonight. I'll try it. It's cool. It sounds fascinating. Although my love is with Lisp and Emacs, I've went into that hippie world of... I think it's a lot of things. What religion were you brought up with? Yeah, that's true. That's true. Most of the actual programming I do is C, C++, and Python."
+}

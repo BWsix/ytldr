@@ -1,0 +1,34 @@
+{
+  "title": "Introduction",
+  "start": 0.0,
+  "end": 264.0,
+  "summary": "This introductory segment of the podcast establishes the guest and provides a detailed explanation of sponsor advertisements. The conversation is with Brian Kernighan [0:00], a highly influential figure in computer science, particularly known for his early contributions to the Unix operating system alongside Ken Thompson and Dennis Ritchie. Kernighan’s legacy extends beyond Unix; he co-authored \"The C Programming Language\" with Ritchie, a foundational text for programmers, and has penned numerous other books on programming, computers, and broader life lessons. He’s also a creator of lesser-known but impactful tools like AUK, a text processing language used by Linux developers, and Ample, an algebraic modeling language [0:37] which the host personally values for its optimization capabilities. The host emphasizes Kernighan’s remarkable humility despite his extensive accomplishments.\n\nThe segment then transitions into a lengthy explanation of two sponsors: Eight Sleep and Raycon. The host promotes the Eight Sleep Pod Pro mattress [1:04], detailing its self-cooling capabilities controlled via an app, capable of reaching temperatures as low as 55 degrees. He highlights the mattress’s ability to track health metrics like heart rate and respiratory rate [2:16], and even its ability to independently control temperature on each side of the bed, playfully suggesting it's a compelling reason for listeners to consider sharing a bed. He personally attests to the mattress’s positive impact on his sleep quality.\n\nFollowing the mattress promotion, the host shifts to Raycon earbuds [3:05], describing them as his preferred method for consuming podcasts, audiobooks, and music, even when engaged in physical activities like running or deep thinking. He specifically mentions using them to listen to brown noise for enhanced focus [3:22]. The host humorously notes the popularity of the earbuds among celebrities, including a playful acknowledgement of Cardi B’s earbud preferences. He concludes the sponsor section by encouraging listeners to utilize the provided links, emphasizing their importance in supporting the podcast’s continued production.",
+  "timestamps": [
+    {
+      "time": 0,
+      "formatted": "0:00",
+      "description": "Introduces Brian Kernighan, highlighting his significant contributions to computer science."
+    },
+    {
+      "time": 10,
+      "formatted": "0:10",
+      "description": "Mentions co-authorship of \"The C Programming Language\" with Dennis Ritchie."
+    },
+    {
+      "time": 64,
+      "formatted": "1:04",
+      "description": "Begins advertisements for Eight Sleep mattress and Raycon earbuds."
+    },
+    {
+      "time": 130,
+      "formatted": "2:10",
+      "description": "Describes the benefits of the Eight Sleep mattress and its temperature control."
+    },
+    {
+      "time": 185,
+      "formatted": "3:05",
+      "description": "Highlights the features and benefits of Raycon earbuds for various activities."
+    }
+  ],
+  "text": "The following is a conversation with Brian Kernighan, a professor of computer science at Princeton University. He was a key figure in the computer science community in the early Unix days alongside Unix creators Ken Thompson and Dennis Ritchie. He co-authored The C Programming Language with Dennis Ritchie, the creator of C, and has written a lot of books on programming, computers, and life, including The Practice of Programming, The Go Programming Language, and his latest, Unix, A History and a Memoir. He co-created AUK, the text processing language used by Linux folks like myself. He co-designed Ample, an algebraic modeling language that I personally love and have used a lot in my life for large-scale optimization. I think I can keep going for a long time with his creations and accomplishments, which is funny because given all that, he's one of the most humble and kind people I've spoken to on this podcast. Quick summary of the ads. Two new sponsors, the amazing self-cooling Eight Sleep mattress and Raycon earbuds. Please consider supporting the podcast by going to eightsleep.com slash lex and going to buyraycon.com slash lex. Click the links, buy the stuff. It really is the best way to support this podcast and the journey I'm on. If you enjoy this thing, subscribe on YouTube, review it with Firestars and Apple Podcasts, support it on Patreon, or connect with me on Twitter at Lex Friedman. As usual, I'll do a few minutes of ads now and never any ads in the middle that can break the flow of the conversation. This show is sponsored by Eight Sleep and its incredible Pod Pro mattress that you can check out at eightsleep.com slash lex to get $200 off. The mattress controls temperature with an app and can cool down to as low as 55 degrees. Research shows that temperature has a big impact on the quality of our sleep. Anecdotally, it's been a game changer for me. I love it. The Pod Pro is packed with sensors that track heart rate, heart rate variability, and respiratory rate, showing it all on their app once you wake up. Plus, if you have a partner, you can control the temperature of each side of the bed. I don't happen to have one, but the Asleep app reminds me that I should probably get on that. So ladies, if a temperature controlled mattress isn't a good reason to apply, I don't know what is. The app's health metrics are amazing, but the cooling alone is honestly worth the money. As some of you know, I don't always sleep, but when I do, I choose the Asleep Pod Pro mattress. Check it out at asleep.com slash lex to get $200 off. This show is also sponsored by Raycon earbuds. Get them at buyraycon.com slash lex. They've quickly become my main method of listening to podcasts, audiobooks, and music. When I run, do the push-ups and pull-ups that I've begun to hate at this point, or just living life. In fact, I often listen to brown noise with ease when I'm thinking deeply about something. It helps me focus the mind. They're super comfortable, pair easily, great sound, great bass, six hours of playtime. In fact, for fun, I have one of the earbuds in now, and I'm listening to Europa by Santana, probably one of my favorite guitar songs. It kind of makes me feel like I'm in a music video. So, they told me to say that a bunch of celebrities use these, like Snoop Dogg, Melissa Etheridge, and Cardi B. I don't even know who Cardi B is, but her earbud game is on point. To mention celebrities I actually care about, I'm sure if Richard Feynman was still with us, he'd be listening to the Joe Rogan experience with Raycon earbuds. Get them at buyraycon.com slash lex. It's how they know I sent you, and increases the chance that he'll support this podcast in the future. So, for all of the sponsors, click all of the links. It really helps this podcast. And now, here's my conversation with Brian Kernighan."
+}

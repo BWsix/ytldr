@@ -1,0 +1,34 @@
+{
+  "title": "Amanda Askell - Philosophy",
+  "start": 9773.0,
+  "end": 9921.0,
+  "summary": "Amanda Askell’s journey from philosophical academia to AI safety research is a fascinating illustration of how seemingly disparate fields can inform one another, and how a desire to make a tangible impact can shape a career path. Her background in philosophy, specifically at Oxford and NYU [162:58], provided a foundational framework for her later work. She highlights the remarkable breadth of philosophy itself, emphasizing that it offers a “philosophy of everything” [163:11], allowing one to transition between areas of study like mathematics, chemistry, or politics. Her PhD focused on a technical area within ethics, exploring ethical considerations in scenarios involving infinitely many people [163:31], a somewhat abstract but intellectually stimulating pursuit.\n\nHowever, Askell describes a growing sense of wanting to move beyond theoretical exploration and contribute to real-world solutions. She recounts the feeling of intellectual fascination during her PhD, coupled with a desire to \"see if I can have an impact on the world and see if I can like do good things\" [164:05]. This desire led her to shift her focus towards AI, around 2017-2018 [164:10], a time when the field was gaining momentum.  She explains her rationale for entering AI, emphasizing that even if her efforts didn’t lead to immediate success, she would have at least tried to address impactful challenges [164:29].\n\nInitially, her role in AI involved policy work, focusing on the political and societal ramifications of AI [164:48]. She then moved into AI evaluation, which involved comparing AI outputs to human outputs to determine if the difference could be detected [164:59].  Currently, at Anthropic, she is engaged in technical alignment work, another attempt to contribute to making AI beneficial [165:10]. Her overall approach to life, she notes, is one of attempting impactful work and accepting the possibility of failure as a necessary part of the process [165:15].",
+  "timestamps": [
+    {
+      "time": 9786,
+      "formatted": "163:06",
+      "description": "Philosophy’s broad scope allows exploration of diverse subjects and interests."
+    },
+    {
+      "time": 9811,
+      "formatted": "163:31",
+      "description": "Amanda’s PhD focused on a technical area of ethics involving infinite people."
+    },
+    {
+      "time": 9850,
+      "formatted": "164:10",
+      "description": "Motivation to shift from philosophy to AI driven by a desire for impact."
+    },
+    {
+      "time": 9888,
+      "formatted": "164:48",
+      "description": "Explains initial AI policy work focused on political ramifications."
+    },
+    {
+      "time": 9905,
+      "formatted": "165:05",
+      "description": "Transition to AI evaluation, comparing AI and human outputs."
+    }
+  ],
+  "text": "journey in philosophy in Oxford and NYU, and then, uh, switching over to the AI problems at OpenAI and Anthropic? I think philosophy is actually a really good subject if you are kind of fascinated with everything. So, cause there's a philosophy of everything, you know? So if you do philosophy of mathematics for a while, and then you decide that you're actually really interested in chemistry, you can do philosophy of chemistry for a while. You can move into ethics or philosophy of politics. Um, I think towards the end, I was really interested in ethics primarily. Um, so that was like what my PhD was on. It was on a kind of technical area of ethics, which was ethics where worlds contain infinitely many people, strangely, a little bit less practical on the end of ethics. And then I think that one of the tricky things with doing a PhD in ethics is that you're thinking a lot about like the world, how it could be better problems. And you're doing like a PhD in philosophy. And I think when I was doing my PhD, I was kind of like, this is really interesting. It's probably one of the most fascinating questions I've ever encountered in philosophy. Um, and I love it, but I would rather see if I can have an impact on the world and see if I can like do good things. And I think that was around the time that AI was still probably not as widely recognized as it is now. That was around 2017, 2018. I had been following progress and it seemed like it was becoming kind of a big deal. And I was basically just happy to get involved and see if I could help. Cause I was like, well, if you try and do something impactful, if you don't succeed, you tried to do the impactful thing and you can go be a scholar and like not in feel like you, you, you know, you, you tried. Um, and if it doesn't work out, it doesn't work out. Um, and so then I went into AI policy at that point. And what does AI policy entail? At the time, this was more thinking about sort of the political impact and the ramifications of AI. Um, and then I slowly moved into sort of, uh, AI evaluation, how we evaluate models, how they compare with like human outputs, whether people can tell like the difference between AI and human outputs. And then when I joined Anthropic, I was more interested in doing sort of technical alignment work and again, just seeing if I could do it and then being like, if I can't, uh, then you know, that's fine. I tried, uh, sort of the, the way I lead life, I think."
+}

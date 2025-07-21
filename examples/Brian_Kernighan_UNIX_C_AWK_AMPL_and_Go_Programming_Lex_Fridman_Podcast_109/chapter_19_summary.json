@@ -1,0 +1,29 @@
+{
+  "title": "Life",
+  "start": 6037.0,
+  "end": 6189,
+  "summary": "In this chapter, Brian Kernighan reflects on his career and the transformative experiences he had at Bell Labs, particularly during the 1970s – a period he describes as a \"golden era\" for computing. Rather than pinpointing specific, singular moments, Kernighan emphasizes the cumulative effect of numerous positive experiences [100:50], highlighting the satisfaction of building something that “worked.” This feeling of accomplishment was frequently reinforced when colleagues would try out his creations and offer positive feedback [101:03]. He recalls a supportive and collaborative environment where innovation thrived, a characteristic of the early days of Unix when there was an abundance of “low hanging fruit” and exciting projects to pursue.\n\nAuk, a project Kernighan developed, serves as a prime example of this rewarding cycle [101:28]. He acknowledges the somewhat unsettling reality that millions of people now use Auk, and with it, have access to his past coding mistakes. Despite the vulnerability and potential embarrassment this creates, he finds beauty in the project's positive impact on a vast audience. This sentiment encapsulates a key theme: the value of contributing to something larger than oneself, even with the inherent imperfections. \n\nThe conversation then transitions to acknowledging sponsors and encouraging listener support through specific links [101:53]. Finally, the chapter concludes with a piece of advice from Kernighan himself: \"Don't comment bad code. Rewrite it.\" [102:45]. This concise statement embodies a pragmatic and action-oriented approach to problem-solving, a philosophy likely honed through years of innovation and collaboration at Bell Labs. The final remarks also provide a brief, personal anecdote about his family’s immigration experience and the challenges they faced with spelling, adding a touch of humanity to the technical discussion.",
+  "timestamps": [
+    {
+      "time": 6050,
+      "formatted": "100:50",
+      "description": "The joy of building something that actually worked at Bell Labs."
+    },
+    {
+      "time": 6063,
+      "formatted": "101:03",
+      "description": "Describes a \"golden era\" with plentiful opportunities and collaboration."
+    },
+    {
+      "time": 6088,
+      "formatted": "101:28",
+      "description": "Auk is cited as a prime example of a project with wide-reaching impact."
+    },
+    {
+      "time": 6095,
+      "formatted": "101:35",
+      "description": "Reflects on the vulnerability and beauty of having code used publicly."
+    }
+  ],
+  "text": "or was profoundly transformative. Is there a moment or moments that jump out at you from memory? I don't think specific moments. I think there were lots and lots and lots of good times at Bell Labs where you would build something and it, it worked. Huh, Jason, it worked. So the moment it worked. Yeah. And, and somebody used it and they said, gee, that's neat. Those kinds of things happened quite often in that sort of golden era in the seventies when Unix was young and there was all this low hanging fruit and interesting things to work on. And I, a group of people who kind of, we were all together in this and if you did something, they would try it out for you. And I think that was in some sense, a really, really good time. And Auk was, uh, was Auk an example of that, that when you built it and people used it. Yeah, absolutely. And now millions of people use it. And all your stupid mistakes are right there for them to look at. Right. So it's mixed. Yeah. It's terrifying, vulnerable, but it's beautiful because it does have a positive impact on so, so many people. So I think there's no better way to end it. Brian, thank you so much for talking to you. It was an honor. Okay. My pleasure. Good fun. Thank you for listening to this conversation with Brian Kernighan and thank you to our sponsors, Eight Sleep Mattress and Raycon earbuds. Please consider supporting this podcast by going to eightsleep.com slash Lex and to buy raycon.com slash Lex. Click the links, buy the stuff. These both are amazing products. It really is the best way to support this podcast and the journey I'm on. It's how they know I sent you and increases the chance that they'll actually support this podcast in the future. If you enjoy this thing, subscribe on YouTube, review it with Fire Stars and Apple Podcasts, support it on Patreon, or connect with me on Twitter at Lex Friedman, spelled somehow, miraculously, without the letter E. Just F-R-I-D-M-A-N. Because when we immigrated to this country, we were not so good at spelling. And now let me leave you with some words from Brian Kernighan. Don't comment bad code. Rewrite it. Thank you for listening and hope to see you next time."
+}

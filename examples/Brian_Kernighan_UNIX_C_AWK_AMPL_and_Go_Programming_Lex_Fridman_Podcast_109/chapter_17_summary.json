@@ -1,0 +1,34 @@
+{
+  "title": "Moore's law",
+  "start": 5387.0,
+  "end": 5574.0,
+  "summary": "The discussion centers around the enduring relevance of Moore’s Law, the observation that the number of transistors on a microchip doubles approximately every two years, leading to exponential improvements in computing power [89:47]. The speakers acknowledge the complex and evolving perspectives on whether this trend will continue indefinitely. While the \"frivolous answer\" is that exponential growth cannot last forever [90:18], the conversation explores the nuances of this limitation. A key point raised is that the pursuit of increased computing power has shifted from solely increasing processor speed (\"vertically\") to increasing the density of components on a chip – essentially fitting more processors or memory into the same space (\"horizontally\") [90:44]. This approach, however, will eventually face fundamental physical limits, potentially reaching the scale of individual atoms [91:01].\n\nInterestingly, the discussion includes a contrasting viewpoint from Jim Keller, who argues that Moore's Law has considerable runway left, citing the potential for a thousand-fold decrease in transistor size before reaching the quantum level [91:21]. This highlights the ongoing innovation and unexpected possibilities within the field. The speakers then pivot to consider the impact of these developments on programming languages [91:41]. They speculate on potential shifts in how software is designed, suggesting a move toward more declarative programming styles [92:06]. This means programmers will increasingly specify *what* they want to achieve, rather than detailing *how* to achieve it, leaving the implementation to automated systems. This trend is already visible in specialized languages for narrow domains, but the speakers envision it broadening, leading to higher levels of abstraction and, potentially, programming through natural language [92:48]. Ultimately, the discussion underscores the ongoing interplay between hardware advancements, like Moore’s Law, and the evolution of software development practices.",
+  "timestamps": [
+    {
+      "time": 5387,
+      "formatted": "89:47",
+      "description": "Introduces the discussion about Moore's Law and its implications."
+    },
+    {
+      "time": 5418,
+      "formatted": "90:18",
+      "description": "States the fundamental limitation: exponential growth cannot continue forever."
+    },
+    {
+      "time": 5436,
+      "formatted": "90:36",
+      "description": "Explains the shift from vertical to horizontal scaling of processors."
+    },
+    {
+      "time": 5481,
+      "formatted": "91:21",
+      "description": "Jim Keller argues there's still a thousand-fold transistor size reduction possible."
+    },
+    {
+      "time": 5520,
+      "formatted": "92:00",
+      "description": "Predicts more programming will be done by programs, increasing abstraction."
+    }
+  ],
+  "text": "What do you think about Moore's Law? Well, you said a lot of stuff we've talked about with programming languages in their design and their ideas are come from the constraints and the systems they operate in. Do you think Moore's Law, the exponential improvement of systems, will continue indefinitely? There's a mix of opinions on that currently. Or do you think do you think there'll be a plateau? Well, the frivolous answer is no exponential can go on forever. You run out of something. Just as we said, timescale matters. So if it goes on long enough, that might be all we need. Yeah, right. Won't matter to us. So I don't know. We've seen places where Moore's Law has changed. For example, mentioned earlier, processors don't get faster anymore. But you use that same growth of you know, ability to put more things in a given area to go on horizontally instead of vertically, as it were. So you can get more and more processors or memory or whatever on the same chip. Is that going to run into a limitation? Presumably because, you know, at some point you get down to the individual atoms. And so you've got to find some way around that. Will we find some way around that? I don't know. I just said that if I say it won't, I'll be wrong. So perhaps we will. So I just talked to Jim Keller and he says, so he actually describes, he argues that the Moore's Law will continue for a long, long time because you mentioned the atom. We actually have, I think, a thousand fold increase, decrease in transistor size, still possible before we get to the quantum level. So there's still a lot of possibilities. He thinks he'll continue indefinitely, which is an interesting optimistic viewpoint. But how do you think the programming languages will change with this increase, whether we hit a wall or not? What do you think? Do you think there'll be a fundamental change in the way programming languages are designed? I don't know about that. I think what will happen is continuation of what we see in some areas, at least, which is that more programming will be done by programs than and by people and that more will be done by sort of declarative rather than procedural mechanisms, where I'll say, I want this to happen. You figure out how. And that is in many cases, at this point, domain of specialized languages for narrow domains. But you can imagine that broadening out. And so I don't have to say so much in so much detail, some collection of software, let's call it languages or programs or something, will figure out how to do what I want to do. Oh, interesting. So increased levels of abstraction. Yeah. And one day getting to the human level, we're going to just use natural language. Could be possible."
+}

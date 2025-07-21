@@ -1,0 +1,34 @@
+{
+  "title": "Sonnet 3.5",
+  "start": 2070.0,
+  "end": 2270.0,
+  "summary": "This chapter, \"Sonnet 3.5,\" delves into the advancements of Anthropic's code generation models, focusing on the improvements seen in Sonnet 3.5 and hinting at the upcoming release of Cloud Opus 3.5. The discussion begins with the challenge of defining “better” in the context of programming models [34:37]. Simply increasing benchmark numbers isn't enough; true improvement lies in demonstrable utility for developers. The speaker recounts personal experience using Sonnet 3.5, noting it has demonstrably assisted in programming tasks, a significant shift from previous models that were largely unhelpful to experienced engineers [34:50]. These engineers previously found earlier models only useful for beginners.\n\nA key metric for evaluating this improvement is the \"SWE bench,\" a benchmark designed to simulate real-world programming scenarios involving codebases in their current state and tasks described in natural language [35:54].  The internal benchmarks also measure the model's ability to freely edit and modify code [36:24].  Notably, the success rate on this internal benchmark has jumped from 3% to approximately 50%, indicating a substantial leap in capability [36:35]. The speaker posits that achieving 100% on this benchmark, without resorting to overfitting, would represent a genuine and significant advancement in programming ability [36:46]. Reaching 90-95% would signify the ability to autonomously handle a considerable portion of software engineering tasks [37:01].\n\nThe speaker acknowledges the audience's eagerness for the next release, specifically Cloud Opus 3.5 [37:13]. While a concrete release date isn’t provided, the team confirms it’s still planned [37:19], humorously comparing the wait to the protracted development cycles of games like Duke Nukem Forever and the ongoing release of trailers for Grand Theft Auto VI [37:30]. The rapid pace of development, demonstrated by the short time since the initial Sonnet release [37:39], is itself a testament to the accelerating progress in this field.",
+  "timestamps": [
+    {
+      "time": 2073,
+      "formatted": "34:33",
+      "description": "Introduces Sonnet 3.5 and the challenge of defining \"better\" in programming."
+    },
+    {
+      "time": 2118,
+      "formatted": "35:18",
+      "description": "Engineers found Sonnet 3.5 genuinely helpful, a first for the models."
+    },
+    {
+      "time": 2195,
+      "formatted": "36:35",
+      "description": "Benchmark shows model task completion jumped from 3% to 50% success."
+    },
+    {
+      "time": 2233,
+      "formatted": "37:13",
+      "description": "Addresses the question of when Cloud Opus 3.5 will be released."
+    },
+    {
+      "time": 2250,
+      "formatted": "37:30",
+      "description": "Compares release timeline to long-delayed games like Duke Nukem Forever."
+    }
+  ],
+  "text": "for the new Sonnet 3.5? I mean, at least in the programming side, and maybe this is a good place to talk about benchmarks. What does it mean to get better? It's just the number went up. But, you know, I, I, I program, but I also love programming and I, um, claw three, five through cursors, what I use, uh, to assist me in programming. And there was, at least experientially, anecdotally, it's gotten smarter at programming. So what, like, what, what does it take to get it, uh, to get it smarter? We observe that as well, by the way, there were a couple, uh, very strong engineers here at Anthropic, um, who all previous code models, both produced by us and produced by all the other companies hadn't really been useful to, hadn't really been useful to them. You know, they said, you know, maybe, maybe this is useful to beginner. It's not useful to me, but Sonnet 3.5, the original one for the first time, they said, oh my God, this helped me with something that, you know, that it would have taken me hours to do. This is the first model that's actually saved me time. So again, the water line is rising. And, and then I think, you know, the new Sonnet has been, has been even better in terms of what it, what it takes. I mean, I'll just say it's been across the board. It's in the pre-training, it's in the post-training, it's in various evaluations that we do. We've observed this as well. And if we go into the details of the benchmark, so SWE bench is basically, you know, since, since, you know, since, since you're a programmer, you know, you'll be familiar with like pull requests and, you know, uh, just, just pull requests or like the, you know, the, like a sort of, a sort of atomic unit of work. You know, you could say, I'm, you know, I'm implementing one, I'm implementing one thing. Um, uh, and, and so SWE bench actually gives you kind of a real world situation where the code base is in the current state and I'm trying to implement something that's, you know, that's described in, described in language. We have internal benchmarks where we, where we measure the same thing and you say, just give the model free reign to like, you know, do anything, run, run, run, anything, edit anything. Um, how, how well is it able to complete these tasks? And it's that benchmark that's gone from, it can do it 3% of the time to it can do it about 50% of the time. Um, so I actually do believe that if we get, uh, you can gain benchmarks, but I think if we get to a hundred percent on that benchmark and in a way that isn't kind of like over-trained or, or, or game for that particular benchmark probably represents a real and serious increase in kind of, in kind of programming, programming ability. And, and I would suspect that if we can get to, you know, 90, 90, 95%, that, that, that, you know, it will, it will represent ability to autonomously do a significant fraction of software engineering tasks. Well, ridiculous timeline question. Uh, when is cloud Opus, uh, 3.5 coming up? Uh, not giving you an exact date. Uh, but you know, they're, they're, uh, uh, you know, as far as we know, the plan is still to have a cloud 3.5 Opus. Are we gonna get it before GTA six or no? Like Duke Nukem forever. So what was that game that there was some game that was delayed 15 years. That's right. Was that Duke Nukem forever? Yeah. And I think GTA is now just releasing trailers. It, you know, it's only been three months since we released the first sonnet. Yeah. It's the incredible pace of release. It just, it just tells you about the pace. Yeah. The expectations for when things are gonna come out."
+}

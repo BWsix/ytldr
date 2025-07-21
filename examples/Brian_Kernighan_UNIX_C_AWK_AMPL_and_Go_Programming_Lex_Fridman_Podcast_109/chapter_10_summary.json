@@ -1,0 +1,34 @@
+{
+  "title": "Learning new programming languages",
+  "start": 3717.0,
+  "end": 3897.0,
+  "summary": "The speaker reflects on the desire to explore a wider range of programming languages [62:05], acknowledging a longing to delve into the vast landscape of options. While not feeling heartbroken about the limitations, they’re driven by curiosity and a desire to experience more. To satisfy this, they've developed a unique approach: creating a minimal example program – a text formatter that wraps lines to a maximum of 60 characters – and implementing it in as many languages as possible [62:17]. This allows for a small-scale, controlled experiment to gauge the initial learning curve and overall experience.\n\nThis \"anecdata\" approach, as they term it [62:53], is particularly valuable because the speaker believes the initial hurdle – the first step in learning a new language – is often the most significant. Their experiences with languages like Lua exemplify this. Within just an hour [63:40], using only online documentation, they had a working formatter in Lua, highlighting how quickly one can become productive with a language that feels intuitive. Conversely, implementing the same formatter in Haskell took several weeks, and the resulting program ran slowly, demonstrating a more challenging learning experience. Fortran 90 proved painful, while Rust, despite its potential, was initially frustrating due to inconsistent and rapidly changing documentation [64:11].\n\nThe speaker emphasizes the importance of having a compelling reason to learn a new language, a combination of genuine interest and available time. The Rust experience, in particular, underscores the role of documentation quality; the lack of consistency significantly slowed progress. Ultimately, the experiment reveals a fascinating spectrum of learning experiences, showcasing how different languages present unique challenges and rewards, and how even a simple task can illuminate the essence of a programming language.",
+  "timestamps": [
+    {
+      "time": 3737,
+      "formatted": "62:17",
+      "description": "Demonstrates writing a small example in many languages."
+    },
+    {
+      "time": 3795,
+      "formatted": "63:15",
+      "description": "Describes a positive experience learning Lua quickly."
+    },
+    {
+      "time": 3825,
+      "formatted": "63:45",
+      "description": "Compares learning Scala, Haskell, Fortran 90, and Rust."
+    },
+    {
+      "time": 3845,
+      "formatted": "64:05",
+      "description": "Highlights the pain and effort involved in learning Fortran 90."
+    },
+    {
+      "time": 3856,
+      "formatted": "64:16",
+      "description": "Discusses challenges with Rust documentation and memory management."
+    }
+  ],
+  "text": "does it break your heart that you'll never get to explore them? Or how do you feel about the full variety? It's not break my heart, but I would love to be able to try more of these languages. The closest I've come is in a class that I often teach in the spring here. It's a programming class. And I often give, I have one sort of small example that I will write in as many languages as I possibly can. I've got it in 20 odd languages at this point. And, um, and that's, so I do a minimal experiment with a language just to say, okay, I have this trivial task, which I understand the task and it should, it takes 15 lines in AUK and not much more in a variety of other languages. So how big is it? How fast does it run? And what pain did I go through to learn how to do it? Um, and that's a, it's like anecdata, right? It's very, very, very narrowly focused. I like that term. So yeah, but still it's a little sample because you get the, I think the hardest step of the programming language is probably the first step, right? So there you're taking the first step. Yeah. And so my experience, um, with some languages is very positive, like Lua, a scripting language I had never used. Um, and I took my little program, the program is a trivial formatter. It just takes in lines of text of, of varying lengths and it puts them out in lines that have no more than 60 characters on each line. So think of it as just kind of the flow of process in a browser or something. Um, so it's very short program. And, um, in Lua, I downloaded Lua and in an hour I had it working, never having written Lua in my life, just going with online documentation. I did the same thing in Scala, which you can think of as a flavor of Java, equally trivial. Um, I did it in Haskell. It took me several weeks, but it did run like a turtle. Um, and, and I, I did it in Fortran 90 and it painful, but it worked and I tried it in Rust and it took me several days to get it working because the model of memory management was just a little unfamiliar to me. And the problem I had with Rust, and it's back to what we were just talking about, I couldn't find good consistent documentation on Rust. Now, this was several years ago and I'm sure things have stabilized, but at the time everything in the Rust world seemed to be changing rapidly. And so you would find what looked like a working example and it wouldn't work with the version of the language that I had. So it took longer than it should have. Um, Rust is a language I would like to get back to, but probably won't. I think one of the issues you have to have something you want to do. And if you don't have something that is the right combination, if I want to do it, and yet I have enough disposable time, whatever, to make it worth learning a new language at the same"
+}
